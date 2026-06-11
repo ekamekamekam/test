@@ -1,0 +1,18 @@
+echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ekamekamekam/test.git
+git push -u origin main
+
+
+<!-- modify this form HTML and place wherever you want your form -->
+<form action="https://formbold.com/s/9mB72" method="POST">
+  <input type="email" placeholder="Email" name="email">
+  <input type="text" placeholder="Subject" name="subject">
+  <textarea name="message" placeholder="Type your message"></textarea>
+
+  <!-- your other form fields go here -->
+  <button type="submit">Send Message</button>
+</form>
